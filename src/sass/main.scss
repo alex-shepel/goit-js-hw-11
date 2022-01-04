@@ -1,0 +1,11 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+
+// Стили для файла с примером HTML-фрагмента
+@import './preset-default';
+@import './variables';
+@import './form';
+@import './gallery';
+@import './card';
